@@ -1,1 +1,1 @@
-# Watch_Face_Editor_-ZeppOS-_Installer
+# Watch Face Editor (ZeppOS) Installer
